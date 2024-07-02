@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Frontend Developer
 ----------------------
 
-I'm a self-taught passionate FrontEnd developer from Russia 
-I love writing on Vue, and building fun experiments
+I'm a self-taught passionate FrontEnd developer from Russia. I love writing on Vue, and building fun experiments
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [idrisov.inmind@gmail.com](mailto:idrisov.inmind@gmail.com) 
