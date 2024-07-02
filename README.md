@@ -7,7 +7,7 @@ Web Frontend Developer
 I'm a self-taught passionate FrontEnd developer from Russia I love writing TypeScript, and building fun experiments
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [idrisov.inmind@gmail.com](mailto:idrisov.inmind@gmail.com)
+* ✉️  You can contact me at [idrisov.inmind@gmail.com](mailto:idrisov.inmind@gmail.com) 
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
